@@ -101,9 +101,9 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  height: 60vh;
+  height: 70vh;
   min-height: 30rem;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), url("../assets/webp/bg.webp");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.05) 100%), url("../assets/webp/logo.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
